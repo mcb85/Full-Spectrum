@@ -17,3 +17,6 @@ Mariana Bromfield, Jordan Kaiser, & Adrian McKenzie
 ## App Link
 https://fullspectrum1.herokuapp.com/
 
+
+### Sign-In
+![Image of sign-in](https://github.com/mcb85/Full-Spectrum/blob/master/public/sign-in%20page.jpg)
