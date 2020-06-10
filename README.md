@@ -1,4 +1,4 @@
-# Project-2
+#Full Spectrum
 The Full Spectrum app creates a forum for families of children with Autism Spectrum Disorder (ASD). Users have the ability to communicate and share ideas with other families, discuss important issues, as well as access resources and events in the community. While this is a free website for families, a user account must be created to access the website. 
 
 ## Instructions
