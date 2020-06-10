@@ -18,5 +18,26 @@ Mariana Bromfield, Jordan Kaiser, & Adrian McKenzie
 https://fullspectrum1.herokuapp.com/
 
 
-### Sign-In
+### Sign-In Page
 ![Image of sign-in](https://github.com/mcb85/Full-Spectrum/blob/master/public/sign-in%20page.jpg)
+
+### Register User
+![Gif of register](https://github.com/mcb85/Full-Spectrum/blob/master/public/register-user.gif)
+
+### Sign-In
+![Gif of sign-in](https://github.com/mcb85/Full-Spectrum/blob/master/public/sign-in.gif)
+
+### Add Blog Post
+![Gif of Blog Post](https://github.com/mcb85/Full-Spectrum/blob/master/public/add-new-post.gif)
+
+### View Post
+![Gif of View Post](https://github.com/mcb85/Full-Spectrum/blob/master/public/display-blog-post.gif)
+
+### Delete Post
+![Gif of Delete](https://github.com/mcb85/Full-Spectrum/blob/master/public/delete-blog-post.gif)
+
+### Events Page
+![Image of Events](https://github.com/mcb85/Full-Spectrum/blob/master/public/events-page.jpg)
+
+### Resources Page
+![Image of Resources)(https://github.com/mcb85/Full-Spectrum/blob/master/public/resources.jpg)
