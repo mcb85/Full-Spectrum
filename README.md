@@ -40,4 +40,4 @@ https://fullspectrum1.herokuapp.com/
 ![Image of Events](https://github.com/mcb85/Full-Spectrum/blob/master/public/events-page.jpg)
 
 ### Resources Page
-![Image of Resources)(https://github.com/mcb85/Full-Spectrum/blob/master/public/resources.jpg)
+![Image of Resources](https://github.com/mcb85/Full-Spectrum/blob/master/public/resources.jpg)
